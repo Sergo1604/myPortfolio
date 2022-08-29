@@ -1,0 +1,17 @@
+.head__Title {
+    color: blueviolet;
+    text-align: center;
+}
+
+.head__Link {
+    text-decoration: none;
+    color: black;
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+}
