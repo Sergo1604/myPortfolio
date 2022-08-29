@@ -1,6 +1,7 @@
 .head__Title {
     color: blueviolet;
     text-align: center;
+    font-size: 40px;
 }
 
 .head__Link {
@@ -14,4 +15,6 @@ ul {
 
 li {
     list-style-type: none;
+    font-size: 20px;
+    line-height: 2;
 }
